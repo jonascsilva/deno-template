@@ -1,0 +1,14 @@
+{
+  "tasks": {
+    "run": "deno run -A index.ts"
+  },
+  "fmt": {
+    "singleQuote": true,
+    "semiColons": false,
+    "lineWidth": 130
+  },
+  "imports": {
+    "/": "./",
+    "./": "./"
+  }
+}
