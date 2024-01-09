@@ -5,6 +5,9 @@
   "fmt": {
     "singleQuote": true,
     "semiColons": false,
-    "lineWidth": 100
+    "lineWidth": 100,
+    "exclude": [
+      "dist"
+    ]
   }
 }
