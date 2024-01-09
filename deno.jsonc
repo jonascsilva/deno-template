@@ -5,10 +5,6 @@
   "fmt": {
     "singleQuote": true,
     "semiColons": false,
-    "lineWidth": 130
-  },
-  "imports": {
-    "/": "./",
-    "./": "./"
+    "lineWidth": 100
   }
 }
